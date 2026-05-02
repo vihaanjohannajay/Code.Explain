@@ -1,4 +1,4 @@
-# code.explain
+# Code.Explain
 
 > AI-powered code explainer built with React and Groq (LLaMA 3.3 70B)
 
